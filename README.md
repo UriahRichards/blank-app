@@ -9,9 +9,9 @@ A simple Streamlit app template for you to modify!
 1. Install the requirements
 
    ```
-   $ pip install -r requirements.txt
+   st.subheader(01 Description of the dataset")
    ```
-
+st.dataframe(df.describe())
 2. Run the app
 
    ```
